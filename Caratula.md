@@ -32,4 +32,4 @@
 ### 📅 Período académico
 **Marzo-Agosto**
 
-[➡️ Ir a Contenido](#contenido)
+[🟦 Ir a Contenido](#contenido)
