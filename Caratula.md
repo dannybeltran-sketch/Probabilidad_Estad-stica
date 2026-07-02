@@ -34,9 +34,4 @@
 
 <a id="caratula"></a>
 
-# 🏠 Carátula
-
-<a href="#contenido">
-<button>➡️ Ir a Contenido</button>
-</a>
-
+[➡️ Ir a Contenido](Contenido.md)
