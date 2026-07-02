@@ -32,4 +32,11 @@
 ### 📅 Período académico
 **Marzo-Agosto**
 
-[🟦 Ir a Contenido](#contenido)
+<a id="caratula"></a>
+
+# 🏠 Carátula
+
+<a href="#contenido">
+<button>➡️ Ir a Contenido</button>
+</a>
+
