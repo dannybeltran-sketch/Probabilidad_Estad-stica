@@ -12,12 +12,8 @@
 ## 📄 [Ape 10](https://drive.google.com/file/d/1aeL-2wAnBpNH5ZilKOa1QCgtgX5llmVH/view?usp=drive_link)
 
 
-<a id="caratula"></a>
-
 <div align="center">
 
-<a href="Contenido.md">
-<button>➡️ Ir a Contenido</button>
-</a>
+[⬅️ Volver a Carátula](Caratula.md)
 
 </div>
