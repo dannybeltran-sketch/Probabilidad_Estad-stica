@@ -34,4 +34,8 @@
 
 <a id="caratula"></a>
 
+<div align="center">
+
 [➡️ Ir a Contenido](Contenido.md)
+
+</div>
