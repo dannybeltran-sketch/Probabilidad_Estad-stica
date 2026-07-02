@@ -32,10 +32,4 @@
 ### 📅 Período académico
 **Marzo-Agosto**
 
-<div align="center">
-
-<a href="índice de contenido.md">🏠 Ir a índice</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="DejercicosUnoAlOcho.md">➡️ Página siguiente</a>
-
-</div>
+[➡️ Ir a Contenido](#contenido)
