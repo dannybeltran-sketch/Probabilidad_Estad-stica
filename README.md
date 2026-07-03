@@ -6,8 +6,11 @@ Durante esta unidad comprendí cómo pasar de la estadística descriptiva a la i
 
 ### Principales aprendizajes
 
-- **Diagnóstico de normalidad:** Aprendí a verificar si los datos siguen una distribución normal utilizando gráficos Q-Q y la prueba de Shapiro-Wilk.
-- **Teorema del Límite Central:** Comprendí que, al aumentar el tamaño de la muestra, las medias muestrales tienden a seguir una distribución normal, lo que permite realizar inferencias más confiables.
+
+
+- Aprendí a plantear correctamente la hipótesis nula y la hipótesis alternativa para comprobar si la media de una muestra es igual a un valor de referencia.
+
+- Comprendí que la **prueba *t* de Student para una muestra** se utiliza cuando la varianza poblacional es desconocida, permitiendo determinar si la diferencia entre la media muestral y la media propuesta es estadísticamente significativa.
 - **Estimación por intervalos:** Entendí la importancia de utilizar intervalos de confianza en lugar de depender únicamente de estimaciones puntuales.
 - **Pruebas de hipótesis y valor-p:** Aprendí a interpretar correctamente el valor-p para decidir si existe evidencia suficiente para rechazar la hipótesis nula.
 
@@ -19,8 +22,7 @@ Durante la implementación en Python encontré algunos desafíos que logré reso
 
 - Fue necesario limpiar la variable **fexp** para corregir inconsistencias y convertir correctamente los datos al tipo `float`.
 - Aprendí cuándo utilizar una **Prueba Z** y cuándo aplicar una **Prueba t de Student**, entendiendo que la varianza poblacional era desconocida.
-- También comprendí la importancia de verificar la **homocedasticidad** mediante la prueba de Levene antes de realizar el A/B Testing.
-
+- Al inicio se me dificultaba identificar en qué casos debía aplicar la **prueba *t* de Student** y en cuáles correspondía utilizar la **distribución *Z***. Sin embargo, con la práctica comprendí los criterios para seleccionar la prueba estadística adecuada según las características de los datos.
 ---
 
 ## 3. Impacto en el Proyecto Integrador Regional
