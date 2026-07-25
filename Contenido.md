@@ -62,15 +62,14 @@
 
 
 
-# 📘 APE 14
-
-## 📂 Recursos del APE 14
-
-### 📄 Documento del APE 14
-- 🔗 [Ver documento en Google Drive](https://drive.google.com/file/d/1J3d8_V6lNxen0aMR0rX0zMZudO4owKYo/view?usp=drive_link)
+## 📘 APE 14
 
 ### 🧪 Notebook IPYNB (Google Colab)
-- 💻 [Abrir notebook del APE 14](https://drive.google.com/file/d/1L_vdzgrArzePTf10w7nrw1mIdQyhsH5y/view?usp=drive_link)
+- 💻 [Abrir notebook del APE 14](https://drive.google.com/file/d/1J3d8_V6lNxen0aMR0rX0zMZudO4owKYo/view?usp=drive_link)
+
+### 📄 Documento del APE 14
+- 🔗 [Ver documento en Google Drive](https://drive.google.com/file/d/1L_vdzgrArzePTf10w7nrw1mIdQyhsH5y/view?usp=drive_link)
+  
 
 # 📘 APE 15
 
