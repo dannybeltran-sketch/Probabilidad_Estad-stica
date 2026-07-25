@@ -52,11 +52,6 @@
 ### 🧪 Notebook IPYNB (Google Colab)
 - 💻 [Abrir notebook del APE 12](https://drive.google.com/file/d/13Czjm8fkJyftphyTE3kcOy_9csuF0mOq/view?usp=drive_link)
 
-# 🎬 Video explicativo sobre el proyecto
-
-## 🎥 [Video explicativo sobre el proyecto](https://drive.google.com/file/d/1CCClfVfHTHjadi8vYYwkgXx1am_VJsrt/view?usp=sharing)
-
-
 
 # 📘 APE 13
 
@@ -86,6 +81,12 @@
 
 ### 🧪 Notebook IPYNB (Google Colab)
 - 💻 [Abrir notebook del APE 15](https://drive.google.com/file/d/1N1b6Uk5bgxxRE0JUKz5znmkIut-FNP2-/view?usp=drive_link)
+  
+
+# 🎬 Video explicativo sobre el proyecto
+
+## 🎥 [Video explicativo sobre el proyecto](https://drive.google.com/file/d/1CCClfVfHTHjadi8vYYwkgXx1am_VJsrt/view?usp=sharing)
+
 
 
 <div align="center">
